@@ -19,11 +19,11 @@ After completing my education in Electronics and Communication Engineering, I de
 - **Description**: Developed an interactive dashboard to visualize daily reports of COVID-19 cases by country, highlighting key business metrics. Integrated data from multiple sources to provide a comprehensive view of the pandemic's impact across different regions.
 - **Technologies Used**: Power BI, DAX, Excel
 
-### [Call Center Dashboard](https://github.com/gokulviswa/call-center-dashboard)
+### [Call Center Dashboard](https://github.com/Gokul-Viswa-B/CALL-CENTER-REPORT.git)
 - **Description**: Designed a user-friendly dashboard to support data-driven decision-making for call center operations. Streamlined report creation, making complex data easily accessible and actionable.
 - **Technologies Used**: Power BI, Excel
 
-### [Amazon Prime Video Dashboard](https://github.com/gokulviswa/amazon-prime-video-dashboard)
+### [Amazon Prime Video Dashboard](htthttps://github.com/Gokul-Viswa-B/AMAZON-PRIME-REPORT.git)
 - **Description**: Created a dashboard showcasing genres, directors, show ratings, and country-specific data. Performed data cleaning to enhance the accuracy of insights and visualized content performance.
 - **Technologies Used**: Power BI, DAX, Excel
 
