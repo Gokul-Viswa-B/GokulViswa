@@ -15,7 +15,7 @@ After completing my education in Electronics and Communication Engineering, I've
 
 ### [COVID-19 REPORT](https://github.com/Gokul-Viswa-B/COVID19-REPORT.git)
 **Description**:  
--Developed an interactive dashboard to visualize daily reports of COVID-19 cases by country, highlighting key business metrics. Integrated data from multiple sources to provide a comprehensive view of the pandemic's impact across different regions.
+Developed an interactive dashboard to visualize daily reports of COVID-19 cases by country, highlighting key business metrics. Integrated data from multiple sources to provide a comprehensive view of the pandemic's impact across different regions.
 
 **Technologies**:  
 - **Power BI**: Data visualization and dashboard creation.
@@ -29,7 +29,7 @@ After completing my education in Electronics and Communication Engineering, I've
 
 ### [CALL CENTER REPORT](https://github.com/Gokul-Viswa-B/CALL-CENTER-REPORT.git)
 **Description**:  
--Developed an interactive dashboard for analyzing call center performance metrics. Used DAX formulas for advanced calculations to gain deeper insights into key performance indicators. Designed the dashboard to be user-friendly, which helped in making reports faster and easier to create.
+Developed an interactive dashboard for analyzing call center performance metrics. Used DAX formulas for advanced calculations to gain deeper insights into key performance indicators. Designed the dashboard to be user-friendly, which helped in making reports faster and easier to create.
 
 **Technologies**:  
 - **Power BI**: For creating visualizations and reports.
@@ -43,7 +43,7 @@ After completing my education in Electronics and Communication Engineering, I've
 
 ### [AMAZON PRIME VIDEO REPORT](https://github.com/Gokul-Viswa-B/AMAZON-PRIME-REPORT.git)
 **Description**:  
--Developed an interactive dashboard to analyze Amazon Prime Video's content performance. Performed data cleaning to improve the accuracy of the dashboard. Created visualizations to show genres, directors, show ratings, and country-specific data.
+Developed an interactive dashboard to analyze Amazon Prime Video's content performance. Performed data cleaning to improve the accuracy of the dashboard. Created visualizations to show genres, directors, show ratings, and country-specific data.
 
 **Technologies**:  
 - **Power BI**: For creating visualizations and dashboards.
