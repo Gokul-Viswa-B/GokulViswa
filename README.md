@@ -45,6 +45,8 @@ After completing my education in Electronics and Communication Engineering, I've
 
 ## 🎓 Education
 - **Bachelor of Engineering (BE)** in Electronics and Communication Engineering, CGPA: 8.08
+- **HSC** in Computer-Science group with percentage of 65.66%
+- **SSLC** with percentage of 79%
 - **Certifications**: Power BI, Tableau
 
 ---
