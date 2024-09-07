@@ -13,25 +13,46 @@ After completing my education in Electronics and Communication Engineering, I've
 
 ## 🛠 Projects
 
-### [COVID-19 Dashboard](https://github.com/Gokul-Viswa-B/COVID19-REPORT.git)
-**Description**: Developed an interactive dashboard to visualize daily reports of COVID-19 cases by country, highlighting key business metrics. Integrated data from multiple sources to provide a comprehensive view of the pandemic's impact across different regions.
-- **Technologies**: Power BI, DAX
-- **Key Features**:
-  - Applied DAX formulas for advanced calculations, enhancing data analysis.
-  - Designed intuitive and user-friendly reports to support data-driven decision-making.
+### [COVID-19 REPORT](https://github.com/Gokul-Viswa-B/COVID19-REPORT.git)
+**Description**:  
+Developed an interactive dashboard to visualize daily reports of COVID-19 cases by country, highlighting key business metrics. Integrated data from multiple sources to provide a comprehensive view of the pandemic's impact across different regions.
 
-### [Call Center Dashboard](https://github.com/Gokul-Viswa-B/CALL-CENTER-REPORT.git)
-**Description**: Developed a dashboard showcasing key performance indicators for a call center, enabling efficient monitoring and performance tracking. The dashboard helped identify areas for improvement, contributing to better customer service management.
-- **Technologies**: Power BI
-- **Key Features**:
-  - Streamlined report creation to make complex data easily accessible and actionable.
+**Technologies**:  
+- **Power BI**: Data visualization and dashboard creation.
+- **Data Sources**: Multiple data sources for COVID-19 statistics.
+- **Data Cleaning**: Performed data cleaning to ensure accuracy and reliability in the visualized data.
+  
+**Outcomes**:
+- Delivered a dashboard that provided real-time insights into COVID-19 statistics.
+- Improved decision-making with actionable insights and clear data visualization.
+- Enhanced analysis and tracking of the pandemic’s impact across various regions.
 
-### [Amazon Prime Video Dashboard](https://github.com/Gokul-Viswa-B/AMAZON-PRIME-REPORT.git)
-**Description**: Created a dashboard showcasing genres, directors, show ratings, and country-specific data for Amazon Prime Video. Performed data cleaning to enhance accuracy and developed visualizations to deliver clear insights into content performance, helping stakeholders make informed decisions.
-- **Technologies**: Power BI, Excel
-- **Key Features**:
-  - Enhanced data visualization to deliver clear insights into content performance.
-  - Improved report accuracy through thorough data cleaning and transformation.
+### [CALL CENTER REPORT](https://github.com/Gokul-Viswa-B/CALL-CENTER-REPORT.git)
+**Description**:  
+Developed an interactive dashboard for analyzing call center performance metrics. Used DAX formulas for advanced calculations to gain deeper insights into key performance indicators. Designed the dashboard to be user-friendly, which helped in making reports faster and easier to create.
+
+**Technologies**:  
+- **Power BI**: For creating visualizations and reports.
+- **DAX (Data Analysis Expressions)**: For advanced calculations.
+- **Data Modeling**: Made data organization simpler for report creation.
+
+**Outcomes**:  
+- Provided clear and actionable data insights for better decision-making.
+- Created easy-to-use reports that made complex data simpler.
+- Improved data analysis with advanced DAX calculations.
+
+### [AMAZON PRIME VIDEO REPORT](https://github.com/Gokul-Viswa-B/AMAZON-PRIME-REPORT.git)
+**Description**:  
+Developed an interactive dashboard to analyze Amazon Prime Video's content performance. Performed data cleaning to improve the accuracy of the dashboard. Created visualizations to show genres, directors, show ratings, and country-specific data.
+
+**Technologies**:  
+- **Power BI**: For creating visualizations and dashboards.
+- **Data Cleaning**: Enhanced the accuracy of data used in the dashboard.
+
+**Outcomes**:  
+- Provided clear insights into content performance with effective data visualizations.
+- Displayed detailed information on genres, directors, show ratings, and country-specific data.
+- Improved the accuracy of the dashboard through thorough data cleaning.
 
 ---
 
