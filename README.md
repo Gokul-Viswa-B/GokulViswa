@@ -64,6 +64,14 @@ This SQL project is designed to manage and streamline hotel operations by mainta
 
 ---
 
+## 📜 Certifications
+
+- **[Power BI Job Stimulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_JhwW4LjzfEwfCTQzH_1725700046284_completion_certificate.pdf)** – Issued by [Forage] Powered by [PwC], [September 2024]
+- **[SQL and Relational Database](https://courses.cognitiveclass.ai/certificates/19d10d51d06c40ddafd7b0dc14743717#)** – Issued by [Cognitiveclass.ai by IBM Developer Skills Network], [September, 2024]
+
+
+---
+
 ## 🌱 Internships
 
 ### Power BI & Tableau Internship
