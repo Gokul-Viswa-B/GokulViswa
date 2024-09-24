@@ -13,6 +13,15 @@ After completing my education in Electronics and Communication Engineering, I've
 
 ## 🛠 Projects
 
+### [VOICE-ASSISTANT USING PYTHON](https://github.com/Gokul-Viswa-B/VOICE-ASSISTANT-USING-PYTHON.git)
+**Description**:  
+ Developed a voice-activated assistant "JARVIS" in Python, Enabled features like Wikipedia search, playing local music, and opening web applications (YouTube, Google).
+
+**Technologies**:  
+- **PYTHON**
+- **LIBRARIES**
+
+  
 ### [COVID-19 REPORT](https://github.com/Gokul-Viswa-B/COVID19-REPORT.git)
 **Description**:  
 Developed an interactive dashboard to visualize daily reports of COVID-19 cases by country, highlighting key business metrics. Integrated data from multiple sources to provide a comprehensive view of the pandemic's impact across different regions.
