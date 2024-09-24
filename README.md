@@ -54,7 +54,7 @@ Developed an interactive dashboard to analyze Amazon Prime Video's content perfo
 - Displayed detailed information on genres, directors, show ratings, and country-specific data.
 - Improved the accuracy of the dashboard through thorough data cleaning.
 
-### [HOTEL MANAGEMENT SYSTEM](https://github.com/Gokul-Viswa-B/Hotel Management System.git)
+### [HOTEL MANAGEMENT SYSTEM](https://github.com/Gokul-Viswa-B/Hotel-Management-System.git)
 **Description**:  
 Developed an interactive dashboard to analyze Amazon Prime Video's content performance. Performed data cleaning to improve the accuracy of the dashboard. Created visualizations to show genres, directors, show ratings, and country-specific data.
 
