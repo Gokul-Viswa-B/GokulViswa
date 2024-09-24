@@ -21,6 +21,15 @@ After completing my education in Electronics and Communication Engineering, I've
 - **PYTHON**
 - **LIBRARIES**
 
+
+### [HOTEL MANAGEMENT SYSTEM](https://github.com/Gokul-Viswa-B/Hotel-Management-System.git)
+**Description**:  
+This SQL project is designed to manage and streamline hotel operations by maintaining and querying data related to guests, bookings, and financial transactions. Analyzed hotel booking data to find top guests and total revenue. Looked at how long guests stayed and their spending habits to spot trends.
+
+**Technologies**:  
+- **SQL**
+- **Excel**
+
   
 ### [COVID-19 REPORT](https://github.com/Gokul-Viswa-B/COVID19-REPORT.git)
 **Description**:  
@@ -63,13 +72,6 @@ Developed an interactive dashboard to analyze Amazon Prime Video's content perfo
 - Displayed detailed information on genres, directors, show ratings, and country-specific data.
 - Improved the accuracy of the dashboard through thorough data cleaning.
 
-### [HOTEL MANAGEMENT SYSTEM](https://github.com/Gokul-Viswa-B/Hotel-Management-System.git)
-**Description**:  
-This SQL project is designed to manage and streamline hotel operations by maintaining and querying data related to guests, bookings, and financial transactions. Analyzed hotel booking data to find top guests and total revenue. Looked at how long guests stayed and their spending habits to spot trends.
-
-**Technologies**:  
-- **SQL**
-- **Excel**
 
 ---
 
