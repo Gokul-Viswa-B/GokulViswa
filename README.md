@@ -56,11 +56,11 @@ Developed an interactive dashboard to analyze Amazon Prime Video's content perfo
 
 ### [HOTEL MANAGEMENT SYSTEM](https://github.com/Gokul-Viswa-B/Hotel-Management-System.git)
 **Description**:  
-Developed an interactive dashboard to analyze Amazon Prime Video's content performance. Performed data cleaning to improve the accuracy of the dashboard. Created visualizations to show genres, directors, show ratings, and country-specific data.
+This SQL project is designed to manage and streamline hotel operations by maintaining and querying data related to guests, bookings, and financial transactions. The database schema includes tables for guests and bookings, capturing essential details for efficient hotel management.
 
 **Technologies**:  
-- **Power BI**: For creating visualizations and dashboards.
-- **Data Cleaning**: Enhanced the accuracy of data used in the dashboard.
+- **SQL**
+- **Excel**
 
 ---
 
